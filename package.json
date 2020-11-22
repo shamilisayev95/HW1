@@ -1,0 +1,26 @@
+{
+  "name": "hw1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/arrays/Arrays.js",
+  "scripts": {
+    "test": "mocha ./src/**/tests/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shamilisayev95/HW1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shamilisayev95/HW1/issues"
+  },
+  "homepage": "https://github.com/shamilisayev95/HW1#readme",
+  "dependencies": {
+    "mocha": "^8.2.1",
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "prettier": "2.2.0"
+  }
+}

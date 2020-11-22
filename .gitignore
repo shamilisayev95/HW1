@@ -52,7 +52,8 @@ typings/
 
 # Optional eslint cache
 .eslintcache
-
+.idea
+package-lock.json
 # Microbundle cache
 .rpt2_cache/
 .rts2_cache_cjs/
